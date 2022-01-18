@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Everafter28 (Chris DeLaTorre)
+- 👋 Hi, I’m @Everafter28 (Chris DeLaTorre), a Senior at the University of Texas
 - 👀 I’m interested in Golf :golf: , Chess :chess_pawn: , and Manga/Anime :jp:
 - 🌱 I’m currently refining my skills on R, SQL, ggplot2, and Japanese :japan:
 - 📫 How to reach me at my school email chridel99@utexas.edu :book:
