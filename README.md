@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chris DeLaTorre (@Everafter28), a Senior at the University of Texas.
+- 👋 Hi, I’m Chris DeLaTorre (@Everafter28), a 2022 Graduate from the University of Texas.
 - 📑 Pursuing a career in Data Wrangling and Analysis.
 - 👀 I’m interests and hobbies are Golf :golf: , Chess :chess_pawn: , and Manga/Anime :jp:
 - 🌱 I’m currently refining my skills on R, SQL, ggplot2, and Japanese :japan:
-- 📫 Reach me at my school email chridel99@utexas.edu :book:
+- 📫 Reach me at my school email chridel99@utexas.edu or personal - chrdel2814@yahoo.com :book:
